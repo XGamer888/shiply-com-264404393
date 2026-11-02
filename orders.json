@@ -1,0 +1,47 @@
+{
+  "RL481528024451": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Germany",
+    "receiver": "Marin Skarabo, Ul. Bartola Kašica 13, 20236 Nova Mokošica, Croatia",
+    "price": "7.000 €",
+    "description": "Manufacturer: Honda<br>Model: GL1500 SC22<br>Chassis number: SC224200450<br>First registration: 30.03.1994<br>Mileage according to previous owner: 58.123 km<br>Power: 72kW (98 PS)<br>Engine capacity: 1.509 cm³<br>Color: Black<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included. COC Document included.<br>Including: 1 x Shoei J-Cruise 3 Acconic Black Jet Helmet",
+    "address": "Marin Skarabo<br>Ul. Bartola Kašica 13<br>20236 Nova Mokošica<br>Croatia<br>Telefon: +385 914510922",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "02.11.2026",
+    "deliveryDate": "04.11.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
