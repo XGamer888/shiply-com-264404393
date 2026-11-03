@@ -1,6 +1,6 @@
 {
   "RL481528024451": {
-    "status": "Waiting for payment",
+    "status": "Preparation for transport",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Germany",
     "receiver": "Marin Skarabo, Ul. Bartola Kašica 13, 20236 Nova Mokošica, Croatia",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "02.11.2026",
-    "deliveryDate": "04.11.2026",
+    "deliveryDate": "06.11.2026 🕒 15:00 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
