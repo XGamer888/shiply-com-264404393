@@ -1,6 +1,6 @@
 {
   "RL481528024451": {
-    "status": "Preparation for transport",
+    "status": "Refund",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Germany",
     "receiver": "Marin Skarabo, Ul. Bartola Kašica 13, 20236 Nova Mokošica, Croatia",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "02.11.2026",
-    "deliveryDate": "06.11.2026 🕒 15:00 Uhr",
+    "deliveryDate": "-",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Altenwerder Hauptstraße 11–15",
+      "postal_code": "21129",
+      "city": "Hamburg",
+      "country": "Germany",
       "lat": "",
       "lng": ""
     },
